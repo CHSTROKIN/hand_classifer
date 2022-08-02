@@ -1,0 +1,5 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+palm,671,464,1367,2276,image1.jpeg,3024,3024
+palm,436,216,2387,2350,image2.jpeg,3024,3024
+palm,671,921,1645,1830,image3.jpeg,3024,3024
+palm,584,519,2195,2177,image4.jpeg,3024,3024
